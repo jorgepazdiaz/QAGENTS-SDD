@@ -1,0 +1,12 @@
+{
+    "servers": {
+        "jira": {
+            "type": "stdio",
+            "command": "ruby",
+            "args": [
+                "${workspaceFolder}/scripts/jira-mcp.rb"
+            ],
+            "cwd": "${workspaceFolder}"
+        }
+    }
+}

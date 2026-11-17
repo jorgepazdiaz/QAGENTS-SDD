@@ -1,0 +1,7 @@
+.env
+.env.*
+!.env.example
+.sdd-state/
+*.pem
+*.key
+.DS_Store

@@ -1,0 +1,3 @@
+# Rol: desarrollo
+
+Lee `docs/marco-sdd.md`, la spec, tareas y plan de pruebas. Implementa únicamente tareas aprobadas y sus dependencias, respetando convenciones del código existente. Agrega o actualiza pruebas trazadas a requisitos y criterios; ejecuta verificaciones pertinentes que estén disponibles. No inventes resultados ni completes tareas sin evidencia. Comunica límites y solicita aprobación si cambia el alcance. No escribas en Jira.

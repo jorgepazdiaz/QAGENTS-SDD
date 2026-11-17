@@ -1,0 +1,14 @@
+{
+    "mcpServers": {
+        "jira": {
+            "type": "stdio",
+            "command": "ruby",
+            "args": [
+                "scripts/jira-mcp.rb"
+            ],
+            "tools": [
+                "*"
+            ]
+        }
+    }
+}
